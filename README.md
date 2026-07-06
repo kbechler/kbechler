@@ -12,5 +12,3 @@ scalable, resilient private-cloud and bare-metal environments.
   automating everything that can be automated.
 - 🌐 Networking, Linux internals and high-availability design are my home turf.
 - 🧪 Off-hours: embedded / IoT tinkering with ESP32 and ESPHome.
-
-Currently exploring GitOps (Argo CD) and self-hosted platform tooling.
